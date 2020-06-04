@@ -7,8 +7,6 @@
 #include <omp.h>
 using namespace std;
 
-// CID: hz6818
-// Email: hz6818@ic.ac.uk
 // Compiler used: VSCode
 // Operating System: MacOS
 // The number of logical processors of my computer is: 4
